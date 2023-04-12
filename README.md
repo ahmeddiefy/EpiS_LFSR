@@ -11,7 +11,7 @@ We used the EPFL, HCInew, HCIold, INRIA and STFgantry datasets for training and 
 # Train:
 Run Generate_Data_for_Train.m to generate training data. The generated data will be saved in ./Data/train_kxSR_AxA/.\
 Run train.py to perform network training.\
-Checkpoint will be saved to ./log/.
+Checkpoints will be saved to ./log/.
 
 # Test:
 Run Generate_Data_for_Test.m to generate test data.\
