@@ -19,6 +19,6 @@ Run test.py to perform network inference.\
 The PSNR and SSIM values of each dataset will be saved to ./log/.
 
 # Acknowledgement
-Our work and implementations are based on the following projects:
-[DistgASR](https://github.com/YingqianWang/DistgASR)
+Our work and implementations are based on the following project\
+[DistgASR](https://github.com/YingqianWang/DistgASR)\
 We sincerely thank the authors for sharing their code and amazing research work!
