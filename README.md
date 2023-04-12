@@ -7,4 +7,4 @@ PyTorch 1.13.1, torchvision 0.14.1. The code is tested with python=3.10, cuda=11
 Matlab (For training/test data generation and performance evaluation)
 
 # Datasets:
-The datasets used in our paper can be downloaded through [this link] (shorturl.at/gtY19).
+The datasets used in our paper can be downloaded through [this link](shorturl.at/gtY19).
